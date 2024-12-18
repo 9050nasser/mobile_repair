@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2024-11-12 22:56:03.592350",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2024-11-12 22:56:03.592350",
+ "modified_by": "Administrator",
+ "module": "Mobile Repair",
+ "name": "device-barcode",
+ "owner": "Administrator",
+ "page_name": "device-barcode",
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Barcode Scan"
+}
